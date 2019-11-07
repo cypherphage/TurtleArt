@@ -1,2 +1,2 @@
-# TurtleArt
-Experimenting with turtle in python
+# turtleArt
+Python turtle experiments
